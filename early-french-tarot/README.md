@@ -4,4 +4,4 @@ They are specifically designed to work with [this reconstruction](http://jducoeu
 
 For additional information about Renaissance Tarot games, see [this page on the Period Games Homepage](https://querki.net/u/jducoeur/period-games/#!Tarot).
 
-[Credits for the card images](Card Credits.md).
+See [this page for credits for the card images](https://github.com/jducoeur/playing-cards/blob/master/early-french-tarot/Card%20Credits.md).
